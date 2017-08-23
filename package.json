@@ -4,25 +4,25 @@
     "description": "streaming shell multiplexer",
     "main": "index.js",
     "dependencies": {
-        "pty.js": "~0.2.1",
-        "duplexer": "~0.0.3",
+        "node-pty": "^0.7.0",
+        "duplexer": "^0.1.1",
         "headless-terminal": "~0.4.0",
-        "through": "~2.2.0",
-        "inherits": "~1.0.0"
+        "through": "^2.3.8,
+        "inherits": "^2.0.3"
     },
     "devDependencies": {
-        "tap": "~0.4.0",
-        "secure-peer": "~0.2.0",
-        "request": "~2.14.0"
+        "tap": "^10.7.2",
+        "secure-peer": "^0.2.1",
+        "request": "^2.81.0"
     },
     "scripts": {
         "test": "tap test/*.js"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/substack/shux.git"
+        "url": "git://github.com/uniibu/shux.git"
     },
-    "homepage": "https://github.com/substack/shux",
+    "homepage": "https://github.com/uniibu/shux",
     "keywords": [
         "shell",
         "multiplex",
@@ -36,6 +36,10 @@
         "name": "James Halliday",
         "email": "mail@substack.net",
         "url": "http://substack.net"
+    },
+    "contributors": {
+        "name": "uni sayo",
+        "email": "unibtc@gmail.com"
     },
     "license": "MIT"
 }
