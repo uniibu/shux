@@ -2,7 +2,7 @@
 
 streaming shell multiplexer
 
-[![build status](https://secure.travis-ci.org/substack/shux.png)](http://travis-ci.org/substack/shux)
+[![build status](https://secure.travis-ci.org/uniibu/shux.png)](http://travis-ci.org/uniibu/shux)
 
 like screen or tmux but as pure javascript library instead of a program
 
