@@ -6,7 +6,7 @@
     "dependencies": {
         "node-pty": "^0.7.0",
         "duplexer": "^0.1.1",
-        "headless-terminal": "~0.4.0",
+        "headless-terminal": "https://github.com/uniibu/headless-terminal.git",
         "through": "^2.3.8",
         "inherits": "^2.0.3"
     },
